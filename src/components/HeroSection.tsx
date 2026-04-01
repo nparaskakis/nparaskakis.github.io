@@ -8,8 +8,8 @@ const HeroSection = () => {
           {/* Photo placeholder */}
           <div className="mb-8 md:mb-0 flex-shrink-0">
             <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl bg-muted border-2 border-border flex items-center justify-center overflow-hidden">
-              {/* Replace the placeholder below with: <img src="/your-photo.jpg" alt="Nikolaos Paraskakis" className="w-full h-full object-cover" /> */}
-              <User size={64} className="text-muted-foreground/40" />
+              <img src="/nikolaos-paraskakis-photo.jpg" alt="Nikolaos Paraskakis" className="w-full h-full object-cover" />
+              {/* <User size={64} className="text-muted-foreground/40" /> */}
             </div>
           </div>
 
